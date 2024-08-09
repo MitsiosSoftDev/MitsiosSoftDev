@@ -5,7 +5,7 @@
 
 I'm from Cyprus and I'm learning software development as a graduate student with a Bachelor's Degree in Computer Science.
 
-##Skills and Experience
+## Skills and Experience
 
 ⚫️ HTML
 
@@ -20,7 +20,4 @@ I'm from Cyprus and I'm learning software development as a graduate student with
 - 🌱 I’m currently learning JavaScript 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MitsiosSoftDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dimitris-erotokritou/)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MitsiosSoftDev/contributions?format=svg&private=false)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MitsiosSoftDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dimitris-erotokritou/)
