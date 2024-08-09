@@ -18,8 +18,11 @@ I'm from Cyprus and I'm learning Software Development as a graduate student with
 ⚫️ REACT
 
 ## Learning
+
 👨🏻‍💻 I’m currently learning JavaScript 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MitsiosSoftDev)](https://github.com/anuraghazra/github-readme-stats)
+
+## Stats
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MitsiosSoftDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dimitris-erotokritou/)
