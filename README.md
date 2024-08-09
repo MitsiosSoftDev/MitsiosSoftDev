@@ -1,6 +1,6 @@
 ### Hi there 👋, Dimitris
 #### Graduate Software Developer
-![Graduate Software Developer]([https://media.licdn.com/dms/image/D4D16AQFX9mJbaTo81A/profile-displaybackgroundimage-shrink_350_1400/0/1722167319063?e=1728518400&v=beta&t=Ofjj_LUR1Kv7wwwJb8TovAMb5fKWP6cdDboSdXWfzzw](https://github.com/MitsiosSoftDev/MitsiosSoftDev/blob/main/Software%20Developer.png))
+![Graduate Software Developer](https://media.licdn.com/dms/image/D4D16AQFX9mJbaTo81A/profile-displaybackgroundimage-shrink_350_1400/0/1722167319063?e=1728518400&v=beta&t=Ofjj_LUR1Kv7wwwJb8TovAMb5fKWP6cdDboSdXWfzzw)
 
 I'm from Cyprus and I'm learning software development as a graduate student with a Bachelor's Degree in Computer Science.
 
