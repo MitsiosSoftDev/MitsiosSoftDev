@@ -1,11 +1,11 @@
 ![Graduate Software Developer](https://media.licdn.com/dms/image/D4D16AQFX9mJbaTo81A/profile-displaybackgroundimage-shrink_350_1400/0/1722167319063?e=1728518400&v=beta&t=Ofjj_LUR1Kv7wwwJb8TovAMb5fKWP6cdDboSdXWfzzw)
 
 # Hi there 👋, Dimitris
-### Graduate Software Developer
+## Graduate Software Developer
 
 I'm from Cyprus and I'm learning Software Development as a graduate student with a Bachelor's Degree in Computer Science.
 
-## Skills and Experience
+### Skills
 
 ⚫️ HTML
 
@@ -17,7 +17,7 @@ I'm from Cyprus and I'm learning Software Development as a graduate student with
 
 ⚫️ REACT
 
-## Learning
+### Learning
 👨🏻‍💻 I’m currently learning JavaScript 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MitsiosSoftDev)](https://github.com/anuraghazra/github-readme-stats)
