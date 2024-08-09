@@ -5,7 +5,7 @@
 
 I'm from Cyprus and I'm learning Software Development as a graduate student with a Bachelor's Degree in Computer Science.
 
-### Skills
+## Skills
 
 ⚫️ HTML
 
@@ -17,7 +17,7 @@ I'm from Cyprus and I'm learning Software Development as a graduate student with
 
 ⚫️ REACT
 
-### Learning
+## Learning
 👨🏻‍💻 I’m currently learning JavaScript 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MitsiosSoftDev)](https://github.com/anuraghazra/github-readme-stats)
