@@ -8,9 +8,13 @@ I'm from Cyprus and I'm learning software development as a graduate student with
 ##Skills and Experience
 
 ⚫️ HTML
+
 ⚫️ CSS
+
 ⚫️ JS
+
 ⚫️ Bootstrap
+
 ⚫️ REACT
 
 - 🌱 I’m currently learning JavaScript 
