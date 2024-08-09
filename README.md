@@ -17,7 +17,8 @@ I'm from Cyprus and I'm learning software development as a graduate student with
 
 ⚫️ REACT
 
-- 🌱 I’m currently learning JavaScript 
+## Learning
+👨🏻‍💻 I’m currently learning JavaScript 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MitsiosSoftDev)](https://github.com/anuraghazra/github-readme-stats)
 
