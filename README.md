@@ -3,7 +3,7 @@
 # Hi there 👋, Dimitris
 ### Graduate Software Developer
 
-I'm from Cyprus and I'm learning software development as a graduate student with a Bachelor's Degree in Computer Science.
+I'm from Cyprus and I'm learning Software Development as a graduate student with a Bachelor's Degree in Computer Science.
 
 ## Skills and Experience
 
