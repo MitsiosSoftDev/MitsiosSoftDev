@@ -5,17 +5,17 @@
 
 I'm from Cyprus and I'm learning Software Development as a graduate student with a Bachelor's Degree in Computer Science.
 
-## Skills 💻 
+## Skills/Languages 💻 
 
 ⚫️ **HTML**
 
 ⚫️ **CSS**
 
-⚫️ **JS**
+⚫️ **JavaScript**
 
 ⚫️ **Bootstrap**
 
-⚫️ **REACT**
+⚫️ **React**
 
 ## Learning 👨🏻‍💻
 
