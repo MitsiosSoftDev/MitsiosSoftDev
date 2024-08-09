@@ -1,21 +1,21 @@
 ![Graduate Software Developer](https://github.com/MitsiosSoftDev/MitsiosSoftDev/blob/main/Software%20Developer.png)
 
-# Hi there 👋🏻, Dimitris
-## Graduate Software Developer
+# Hi there 👋🏻
+## I'm Dimitris, a Graduate Software Developer
 
 I'm from Cyprus and I'm learning Software Development as a graduate student with a Bachelor's Degree in Computer Science.
 
 ## Skills/Languages 💻 
 
-⚫️ **HTML**
+- **HTML**
 
-⚫️ **CSS**
+- **CSS**
 
-⚫️ **JavaScript**
+- **JavaScript**
 
-⚫️ **Bootstrap**
+- **Bootstrap**
 
-⚫️ **React**
+- **React**
 
 ## Learning 👨🏻‍💻
 
