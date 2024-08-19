@@ -1,21 +1,15 @@
 ![Graduate Software Developer](https://github.com/MitsiosSoftDev/MitsiosSoftDev/blob/main/Software%20Developer.png)
 
-# Hi there 👋🏻
-## I'm Dimitris, a Graduate Software Developer
+# Hi, I'm Dimitris 👋🏻
+A Graduate Software Developer
 
 I'm from Cyprus and I'm learning Software Development as a graduate student with a Bachelor's Degree in Computer Science.
 
-## Skills/Languages 💻 
+## Skills / Languages 💻 
 
-- **HTML**
 
-- **CSS**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,react,java,figma,azure,py,sass,github,vscode,idea&perline=7)](https://skillicons.dev)
 
-- **JavaScript**
-
-- **Bootstrap**
-
-- **React**
 
 ## Learning 👨🏻‍💻
 
@@ -23,7 +17,7 @@ I’m currently learning *JavaScript*
 
 ## Stats 📈
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MitsiosSoftDev)](https://github.com/anuraghazra/github-readme-stats)
+![MitsiosSoftDev's Stats](https://github-readme-stats.vercel.app/api?username=MitsiosSoftDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Social 🔗
 
