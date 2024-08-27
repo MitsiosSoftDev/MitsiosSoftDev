@@ -8,7 +8,7 @@ I am from ***Cyprus*** and I'm learning software development as a graduate stude
 ## Skills / Languages 💻 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,react,java,figma,azure,py,sass,github,vscode,idea&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,nodejs,react,java,figma,azure,py,sass,github,vscode,idea&perline=5)](https://skillicons.dev)
 
 
 ## Learning 👨🏻‍💻
