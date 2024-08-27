@@ -1,4 +1,4 @@
-![Graduate Software Developer](https://github.com/MitsiosSoftDev/MitsiosSoftDev/blob/main/Software%20Developer.png)
+![Graduate Software Developer](https://github.com/MitsiosSoftDev/MitsiosSoftDev/blob/main/Banner.png)
 
 # Hi, I'm Dimitris 👋🏻
 Graduate Software Developer
