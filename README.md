@@ -3,7 +3,7 @@
 # Hi, I'm Dimitris 👋🏻
 Graduate Software Developer
 
-I am from ***Cyprus*** and I'm learning software development as a graduate student with a **Bachelor's Degree in Computer Science**.
+I am from ***Cyprus*** and I'm a Software Developer with a **Bachelor's Degree in Computer Science**.
 
 ## Skills / Languages 💻 
 
