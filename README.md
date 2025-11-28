@@ -19,7 +19,18 @@ I’m currently learning *Full-Stack Development*
 
 ## Social 🔗
 
-[<img src="https://cdn.simpleicons.org/github/6e6e6e" height="40" target="_blank">](https://github.com/MitsiosSoftDev)    [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40" target="_blank">](https://www.linkedin.com/in/dimitris-erotokritou/)    [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="40" target="_blank">](https://dev.to/dimitris_erotokritou)
+<a href="https://github.com/MitsiosSoftDev" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.simpleicons.org/github/181717" height="40">
+</a>
+
+<a href="https://www.linkedin.com/in/dimitris-erotokritou/" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40">
+</a>
+
+<a href="https://dev.to/dimitris_erotokritou" target="_blank" rel="noopener noreferrer">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="40">
+</a>
+
 
 ## Location 📍
 
