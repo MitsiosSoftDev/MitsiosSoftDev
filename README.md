@@ -11,7 +11,7 @@ Graduate Software Developer
 
 ## Learning 👨🏻‍💻
 
-I’m currently learning *Front-End Development* 
+I’m currently learning *Full-Stack Development* 
 
 ## Stats 📈
 
