@@ -6,7 +6,7 @@ Graduate Software Developer
 ## Skills / Languages 💻 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,nodejs,react,java,figma,azure,py,sass,github,vscode,idea&perline,cs,dotnet,git=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,nodejs,react,java,figma,azure,py,sass,github,vscode,idea&perline,cs,dotnet,git=6)](https://skillicons.dev)
 
 
 ## Learning 👨🏻‍💻
