@@ -19,7 +19,7 @@ I’m currently learning *Full-Stack Development*
 
 ## Social 🔗
 
-[<img src="https://cdn.simpleicons.org/github/6e6e6e" height="40">](https://github.com/MitsiosSoftDev)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dimitris-erotokritou/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/dimitris_erotokritou)
+[<img src="https://cdn.simpleicons.org/github/6e6e6e" height="40">](https://github.com/MitsiosSoftDev)    [<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40">](https://www.linkedin.com/in/dimitris-erotokritou/)    [<img src="https://cdn.simpleicons.org/devdotto/000000" height="40">](https://dev.to/dimitris_erotokritou)
 
 ## Location 📍
 
