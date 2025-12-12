@@ -1,7 +1,7 @@
 ![Graduate Software Developer](https://github.com/MitsiosSoftDev/MitsiosSoftDev/blob/main/Banner.png)
 
 # Hi, I'm Dimitris 👋🏻
-Graduate Software Developer
+Software Developer
 
 ## Skills / Languages 💻 
 
