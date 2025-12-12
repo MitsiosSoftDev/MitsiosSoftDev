@@ -13,9 +13,6 @@ Software Developer
 
 I’m currently learning *Full-Stack Development* 
 
-## Stats 📈
-
-![MitsiosSoftDev's Stats](https://github-readme-stats.vercel.app/api?username=MitsiosSoftDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Social 🔗
 
