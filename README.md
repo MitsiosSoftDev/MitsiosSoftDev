@@ -1,7 +1,7 @@
 ![Graduate Software Developer](https://github.com/MitsiosSoftDev/MitsiosSoftDev/blob/main/Banner.png)
 
 # Hi, I'm Dimitris 👋🏻
-Software Developer
+# Software Developer
 
 ## Tech Stack 💻 
 
