@@ -3,7 +3,7 @@
 # Hi, I'm Dimitris 👋🏻
 Software Developer
 
-## Skills / Languages 💻 
+## Tech Stack 💻 
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,nodejs,react,java,figma,azure,py,sass,github,vscode,idea,cs,dotnet,git&perline=6)](https://skillicons.dev)
